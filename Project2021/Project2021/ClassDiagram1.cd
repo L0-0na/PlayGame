@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project2021.GameBoard" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgECIABBCAAIAAhAQACAkAAAAAAAAAEUACACAAAAAA=</HashCode>
+      <FileName>GameBoard.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="play_field" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Project2021.Playertwo" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAACAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Playertwo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2021.Rect" Collapsed="true">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoAAABAAAAAAAAAAAAAIAAAAAAAAACIAAAAAAAAAAA=</HashCode>
+      <FileName>Rect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2021.ResourceBoard" Collapsed="true">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAggACAACAAAAAACCAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project2021.Form1" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>1xAAAAAEICAIBBIAAACACCIGAIAIAAEhAUQAAQEAACI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="gameboard" />
+      <Field Name="playertwo" />
+      <Field Name="resourceboard" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
